@@ -6,6 +6,8 @@ The "Video Series Creation Rewards Platform" is a decentralized application (dAp
 
 ## Contract Address
 0x114A45804a191f5beCaF620d65229ce23238e2e8
+![image](https://github.com/user-attachments/assets/688f14d3-a4d2-444f-bb16-86cd46686da0)
+
 
 ## Project Vision
 Our vision is to empower creators by providing a decentralized platform where their work is directly appreciated and rewarded by the audience. By eliminating intermediaries, we ensure transparency, fairness, and an immutable record of contributions.
