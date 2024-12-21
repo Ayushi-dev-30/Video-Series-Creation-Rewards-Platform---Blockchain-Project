@@ -6,7 +6,8 @@ The "Video Series Creation Rewards Platform" is a decentralized application (dAp
 
 ## Contract Address
 0x114A45804a191f5beCaF620d65229ce23238e2e8
-![image](https://github.com/user-attachments/assets/cd8be9a7-b46f-4adc-996c-0755aeeb8435)
+![image](https://github.com/user-attachments/assets/be488400-6809-43eb-8b19-50dd6595a254)
+
 
 
 
